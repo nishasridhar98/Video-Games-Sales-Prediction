@@ -54,11 +54,11 @@ This will open the Jupyter Notebook software and project file in your browser.
 * Global_Sales - Total worldwide sales.
 
 # Output Variable( Desired Target)
-  Global_Sales: To predict the Worldwide sales
+  Global_Sales: To predict the Worldwide Sales
   
 # Models Trained 
   | Training Model  | Root mean squared error |
   | ----------------| ------------------------|
-  | Linear Regression | 0.0132  |
-  | Using Sklearn     | 0.0143  |
-  | Using Keras       | 0.0176  |
+  | Linear Regression | 0.0138  |
+  | Using Sklearn     | 0.0158  |
+  | Using Keras       | 0.0171  |
