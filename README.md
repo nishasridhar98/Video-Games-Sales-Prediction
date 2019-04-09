@@ -19,17 +19,22 @@ the above packages and more included.
    
 # Description of the repository
 This repository contains 3 notebooks
-  1. Linear Regression-Video Games Sales Dataset.ipynb: 
+  1. Data Visualization-Video Games Sales Dataset.ipynb:
+      This notebook contains the code for data visualization of the given dataset.
+      
+  2. Linear Regression-Video Games Sales Dataset.ipynb: 
       This notebook contains implementation of the dataset using Multivariate Linear Regression.
       
-  2. Linear Regression with SKlearn-Video Games Sales Dataset.ipynb:
+  3. Linear Regression with SKlearn-Video Games Sales Dataset.ipynb:
       This notebook contains Scikit-learn implementation using Multivariate Linear Regression.
       
-  3. Keras- Video Games Sales Dataset.ipynb:
+  4. Keras- Video Games Sales Dataset.ipynb:
       This notebook conatins Neural Network implementation using Keras. 
 
 # Run
 In the anaconda promt, navigate to the top-level project directory and run one of the following commands:
+
+      jupyter notebook "Data Visualization-Video Games Sales Dataset.ipynb"
       
       jupyter notebook "Linear Regression-Video Games Sales Dataset.ipynb"
       
@@ -60,5 +65,5 @@ This will open the Jupyter Notebook software and project file in your browser.
   | Training Model  | Root mean squared error |
   | ----------------| ------------------------|
   | Linear Regression | 0.0138  |
-  | Using Sklearn     | 0.0158  |
-  | Using Keras       | 0.0171  |
+  | Using Sklearn     | 0.0216  |
+  | Using Keras       | 0.0216  |
