@@ -9,6 +9,7 @@ This project requires python 3.6 or higher versions of python, along with these 
 * [scikit-learn](https://scikit-learn.or/stable/)
 * [seaborn](https://seaborn.pydata.org/installing.html)
 * [TensorFlow](https://www.tensorflow.org/install)
+* [Keras](https://keras.io/#installation)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/)
 
@@ -49,7 +50,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 # Attribute information
 
 * Rank - Ranking of overall sales
-* Name - The games name
+* Name - The game name
 * Platform - Platform of the games release (i.e. PC,PS4, etc.)
 * Year - Year of the game's release
 * Genre - Genre of the game
