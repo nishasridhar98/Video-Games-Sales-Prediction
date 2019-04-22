@@ -8,6 +8,7 @@ This project requires python 3.6 or higher versions of python, along with these 
 * [Matplotlib](https://matplotlib.org)
 * [scikit-learn](https://scikit-learn.or/stable/)
 * [seaborn](https://seaborn.pydata.org/installing.html)
+* [TensorFlow](https://www.tensorflow.org/install)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/)
 
