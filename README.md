@@ -7,6 +7,7 @@ This project requires python 3.6 or higher versions of python, along with these 
 * [Pandas](https://pandas.pydata.org)
 * [Matplotlib](https://matplotlib.org)
 * [scikit-learn](https://scikit-learn.or/stable/)
+* [seaborn](https://seaborn.pydata.org/installing.html)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/)
 
@@ -20,7 +21,7 @@ the above packages and more included.
 # Description of the repository
 This repository contains 3 notebooks
   1. Data Visualization-Video Games Sales Dataset.ipynb:
-      This notebook contains the code for data visualization of the given dataset.
+      This notebook contains the code for data visualization of the given dataset.Before running this notebook make sure you have      installed seaborn.
       
   2. Linear Regression-Video Games Sales Dataset.ipynb: 
       This notebook contains implementation of the dataset using Multivariate Linear Regression.
