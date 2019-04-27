@@ -67,6 +67,6 @@ This will open the Jupyter Notebook software and project file in your browser.
 # Models Trained 
   | Training Model  | Root mean squared error |
   | ----------------| ------------------------|
-  | Linear Regression | 0.0138  |
-  | Using Sklearn     | 0.0216  |
-  | Using Keras       | 0.0216  |
+  | Linear Regression using raw code| 0.0138  |
+  | Linear Regression with Sklearn     | 0.0216  |
+  | Regression with Keras       | 0.0216  |
